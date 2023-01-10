@@ -1,0 +1,40 @@
+[
+{
+    "card_color": "#d6a8aa",
+    "fruit_name": "Banana",
+    "fruit_color": "Yellow",
+    "fruit_img": "https://www.lovemysalad.com/sites/default/files/styles/home_carousel_item_768/public/banaan-large.jpg?itok=tMUaAk0b"
+},
+{
+    "card_color": "#817c79",
+    "fruit_name": "Tomato",
+    "fruit_color": "Red",
+    "fruit_img": "https://s3-us-west-2.amazonaws.com/melingoimages/Images/98055.jpg"
+},
+{
+    "card_color": "#c23255",
+    "fruit_name": "Cucumber",
+    "fruit_color": "Green",
+    "fruit_img": "https://chefsmandala.com/wp-content/uploads/2018/03/Cucumber.jpg"
+},
+{
+    "card_color": "#aadfe3",
+    "fruit_name": "Eggplant",
+    "fruit_color": "Purple",
+    "fruit_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Aubergine.jpg/640px-Aubergine.jpg"
+},
+{
+    "card_color": "#ed9589",
+    "fruit_name": "Orange",
+    "fruit_color": "Orange",
+    "fruit_img": "https://www.aprifel.com/wp-content/uploads/2019/02/orange.jpg"
+},
+{
+    "card_color": "rgba(102 91 195)",
+    "fruit_name": "Corn",
+    "fruit_color": "Yellow",
+    "fruit_img": "https://s30386.pcdn.co/wp-content/uploads/2019/08/FreshCorn_HNL1309_ts135846041.jpg.optimal.jpg"
+}
+
+]
+

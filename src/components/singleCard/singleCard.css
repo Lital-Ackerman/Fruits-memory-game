@@ -1,0 +1,53 @@
+.cardContainer{
+    position: relative;
+    width:100%;
+    height: 270px;
+}
+
+.front{
+    width:100%;
+    height: 270px;
+    border: 4px solid white;
+    /* background-color: black ; */
+    border-radius: 10px;
+    font-family: freshFruit;
+    font-size: 22px;
+    /* padding-top: 10px; */
+    
+}
+
+.cardContainer .front{
+    position: absolute;
+    transform: rotateY(90deg);
+    transition: all ease-in 0.2s;
+}
+
+.flipped .front{
+    transform: rotateY(0deg);
+    transition-delay: 0.2s;
+}
+
+
+.cardContainer .back{
+    width:100%;
+    height: 270px;
+    border-radius: 10px;
+    font-family: freshFruit;
+    border: 4px solid white;
+    transition: all ease-in 0.2s;
+    transition-delay: 0.2s;
+}
+
+.flipped .back{
+    transform: rotateY(90deg);
+    transition-delay: 0s;
+}
+@font-face {
+    font-family: "freshFruit";
+    src: url(/Fresh\ Fruit.ttf);
+}
+
+.fruitImg{
+    width: 50%;
+    height:max-content;
+}
